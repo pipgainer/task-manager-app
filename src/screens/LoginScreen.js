@@ -17,7 +17,6 @@ const LoginScreen = ({ navigation }) => {
         setErrorMessage("");  // Reset error before attempting login
         try {
             const success = await login(email, password);
-            console.log("success", success);
             if (!success) {
                 setErrorMessage("Invalid email or password"); // Show error if login fails
             }
