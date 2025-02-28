@@ -32,7 +32,7 @@ A React Native (Expo) application for managing tasks efficiently with authentica
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/task-manager-app.git
+   git clone https://github.com/pip-gainer/task-manager-app.git
    cd task-manager-app
    ```
 
